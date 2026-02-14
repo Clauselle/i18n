@@ -1,0 +1,9 @@
+{
+  "auth": {
+    "login": "Connexion",
+    "logout": "Déconnexion"
+  },
+  "errors": {
+    "required": "Ce champ est obligatoire"
+  }
+}

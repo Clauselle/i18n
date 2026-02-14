@@ -1,0 +1,9 @@
+{
+  "auth": {
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "errors": {
+    "required": "This field is required"
+  }
+}

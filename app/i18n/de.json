@@ -1,0 +1,9 @@
+{
+  "auth": {
+    "login": "Anmelden",
+    "logout": "Abmelden"
+  },
+  "errors": {
+    "required": "Dieses Feld ist erforderlich"
+  }
+}
